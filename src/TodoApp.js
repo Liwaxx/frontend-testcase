@@ -33,8 +33,8 @@ function TodoApp(props) {
       <AddTodo/>
       <h2 className='my-2'>Ongoing Task</h2>
       <TodoList />
-      {/* <h2 className='my-2'>Complete Task</h2>
-      <TodoList /> */}
+      <h2 className='my-2'>Complete Task</h2>
+      <TodoList />
     </div>
   );
 }

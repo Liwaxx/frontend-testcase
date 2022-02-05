@@ -6,9 +6,9 @@ import { Table } from 'reactstrap'
 
 class TodoList extends Component {
 
-  componentDidMount() {
-    this.props.getTodo();
-  }
+  // componentDidMount() {
+  //   this.props.getTodo();
+  // }
 
   render() {
     return (

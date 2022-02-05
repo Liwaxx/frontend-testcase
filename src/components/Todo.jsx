@@ -4,7 +4,7 @@ import {Button} from 'reactstrap'
 const Todo = ({title, id}) => {
   return (
       <tr>
-        <td>LALALLA</td>
+        <td>Dummy</td>
         <td className='w-25'>
           <Button color='success' className='mx-2'>Complete</Button>
           <Button color='warning' className='mx-2'>Edit</Button>
